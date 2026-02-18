@@ -1,0 +1,8 @@
+{
+  "name": "TenantsFlow",
+  "description": "A high-performance, multi-tenant project management application for teams featuring Google Auth, role-based access control, and real-time task management.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
